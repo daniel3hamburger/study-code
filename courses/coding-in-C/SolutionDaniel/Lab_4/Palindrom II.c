@@ -6,7 +6,7 @@ int main() {
     char tausch[100];
 
     printf("Type in your Word: ");
-    scanf("%s", word);
+    scanf("%s", word); //eingabe prüfen 
 
     int len = strlen(word);
 

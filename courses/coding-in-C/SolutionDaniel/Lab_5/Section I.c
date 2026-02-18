@@ -14,6 +14,6 @@ int main(void) {
 //*p 42
 //pp= 6291048 adress of p
 //*pp = 6291060 adress of x 
-// **pp= 42
+//**pp= 42
     return 0;
 }
